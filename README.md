@@ -1,4 +1,1 @@
-Recipes
-=======
-
-Recipes (food) I like to cook 
+[Recipes](http://scottweinstein.github.com/Recipes/)
