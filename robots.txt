@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://ScottWeinstein.github.com/Recipes/sitemap.xml 
