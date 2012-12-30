@@ -4,7 +4,7 @@
   <title><![CDATA[Category: pickles | Recipes]]></title>
   <link href="http://ScottWeinstein.github.com/Recipes/blog/categories/pickles/atom.xml" rel="self"/>
   <link href="http://ScottWeinstein.github.com/Recipes/"/>
-  <updated>2012-12-30T18:38:38-05:00</updated>
+  <updated>2012-12-30T18:54:06-05:00</updated>
   <id>http://ScottWeinstein.github.com/Recipes/</id>
   <author>
     <name><![CDATA[Scott Weinstein]]></name>
@@ -20,24 +20,27 @@
     <id>http://ScottWeinstein.github.com/Recipes/blog/2012/12/30/sauerkraut</id>
     <content type="html"><![CDATA[<h2>Ingredient</h2>
 
-<pre><code>* 3-4 Kg Cabbage
-* 5 g salt/Kg cabbage
+<ul>
+<li>3-4 Kg Cabbage</li>
+<li><p>5 g salt/Kg cabbage</p></li>
+<li><p>1 L water</p></li>
+<li>15 g salt</li>
+</ul>
 
-* 1 L water
-* 15 g salt
-</code></pre>
 
 <h2>Steps</h2>
 
-<pre><code>* Boil salt &amp; water, let cool
-* Shred cabbage
-* Mix salt and cabbage
-* Pack tightly into crock
-* Place stones
-* Cover w/ salt water if required
-* Cover w/ container and fill channel w/ salt water
-* Wait 3-6 weeks
-</code></pre>
+<ul>
+<li>Boil salt &amp; water, let cool</li>
+<li>Shred cabbage</li>
+<li>Mix salt and cabbage</li>
+<li>Pack tightly into crock</li>
+<li>Place stones</li>
+<li>Cover w/ salt water if required</li>
+<li>Cover w/ container and fill channel w/ salt water</li>
+<li>Wait 3-6 weeks</li>
+</ul>
+
 ]]></content>
   </entry>
   
