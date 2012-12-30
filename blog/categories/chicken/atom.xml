@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Recipes]]></title>
-  <link href="http://ScottWeinstein.github.com/Recipes/atom.xml" rel="self"/>
+  <title><![CDATA[Category: chicken | Recipes]]></title>
+  <link href="http://ScottWeinstein.github.com/Recipes/blog/categories/chicken/atom.xml" rel="self"/>
   <link href="http://ScottWeinstein.github.com/Recipes/"/>
   <updated>2012-12-30T18:38:38-05:00</updated>
   <id>http://ScottWeinstein.github.com/Recipes/</id>
@@ -12,34 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Sauerkraut]]></title>
-    <link href="http://ScottWeinstein.github.com/Recipes/blog/2012/12/30/sauerkraut/"/>
-    <updated>2012-12-30T18:37:00-05:00</updated>
-    <id>http://ScottWeinstein.github.com/Recipes/blog/2012/12/30/sauerkraut</id>
-    <content type="html"><![CDATA[<h2>Ingredient</h2>
-
-<pre><code>* 3-4 Kg Cabbage
-* 5 g salt/Kg cabbage
-
-* 1 L water
-* 15 g salt
-</code></pre>
-
-<h2>Steps</h2>
-
-<pre><code>* Boil salt &amp; water, let cool
-* Shred cabbage
-* Mix salt and cabbage
-* Pack tightly into crock
-* Place stones
-* Cover w/ salt water if required
-* Cover w/ container and fill channel w/ salt water
-* Wait 3-6 weeks
-</code></pre>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Goi Ga]]></title>
