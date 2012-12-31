@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: indian | Recipes]]></title>
+  <link href="http://ScottWeinstein.github.com/Recipes/blog/categories/indian/atom.xml" rel="self"/>
+  <link href="http://ScottWeinstein.github.com/Recipes/"/>
+  <updated>2012-12-30T22:27:17-05:00</updated>
+  <id>http://ScottWeinstein.github.com/Recipes/</id>
+  <author>
+    <name><![CDATA[Scott Weinstein]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Tandoori chicken]]></title>
+    <link href="http://ScottWeinstein.github.com/Recipes/blog/2012/12/30/tandoori-chicken/"/>
+    <updated>2012-12-30T22:21:00-05:00</updated>
+    <id>http://ScottWeinstein.github.com/Recipes/blog/2012/12/30/tandoori-chicken</id>
+    <content type="html"><![CDATA[<h2>Ingredients</h2>
+
+<ul>
+<li>3 lbs chicken breasts</li>
+<li>1.5 bulbs garlic</li>
+<li>1.5" (1" round) ginger, peeled</li>
+<li>1/4 cup vinegar</li>
+<li>1/4 cup oil</li>
+<li>1/2 cup plain yogurt or 1/2 c buttermilk</li>
+<li>1/8 cup lemon juice</li>
+<li>1/4 cup methi leaves (kasuri)</li>
+<li>1/2 tsp salt, or to taste</li>
+<li>1/2 tsp red pepper or to taste</li>
+<li>1/4 cup Shan tandoori powder (about half the packet)</li>
+<li>1 tsp Shan Zafrani garam masala</li>
+<li>1 tsp chunky chat masala (any brand)  optional</li>
+</ul>
+
+
+<h2>Steps</h2>
+
+<ol>
+<li>Cut chicken into large cubes</li>
+<li>Blend together garlic, ginger, vinegar, oil, yogurt, lemon juice, methi, salt, chilli, tandoori powder, garam masala</li>
+<li>Marinate chicken overnight with 1/3 of the mixture</li>
+<li>Grill on hot coals, or broil (25 min)</li>
+<li>Baste occasionally with ghee, and sprinkle chat masala when done.</li>
+<li>Serve with raw sliced onions and lemon wedges</li>
+</ol>
+
+]]></content>
+  </entry>
+  
+</feed>
