@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: vegetarian | Recipes]]></title>
+  <link href="http://ScottWeinstein.github.com/Recipes/blog/categories/vegetarian/atom.xml" rel="self"/>
+  <link href="http://ScottWeinstein.github.com/Recipes/"/>
+  <updated>2012-12-30T19:12:45-05:00</updated>
+  <id>http://ScottWeinstein.github.com/Recipes/</id>
+  <author>
+    <name><![CDATA[Scott Weinstein]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Green Beans with Shallots]]></title>
+    <link href="http://ScottWeinstein.github.com/Recipes/blog/2012/12/30/green-beans-with-shallots/"/>
+    <updated>2012-12-30T18:57:00-05:00</updated>
+    <id>http://ScottWeinstein.github.com/Recipes/blog/2012/12/30/green-beans-with-shallots</id>
+    <content type="html"><![CDATA[<h2>Ingredients</h2>
+
+<ul>
+<li>1.5 lbs green beans</li>
+<li>2 tsp olive oil</li>
+<li>6 medium shallot</li>
+<li>2 Tbsp fresh parsley</li>
+<li>2.5 tsp lemon zest</li>
+<li>0.5 tsp minced garlic</li>
+<li>1/4 tsp salt</li>
+<li>1/4 tsp black pepper</li>
+</ul>
+
+
+<h2>Steps</h2>
+
+<ul>
+<li>Prep
+
+<ul>
+<li>wash &amp; trim beans</li>
+<li>thin slice shallots</li>
+<li>chop parsley</li>
+</ul>
+</li>
+<li>Cook
+
+<ul>
+<li>steam or boil beans</li>
+<li>fry shallots for 5 min</li>
+<li>add beans, salt, pepper</li>
+<li>combine parsley, lemon zest and garlic</li>
+</ul>
+</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
