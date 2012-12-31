@@ -4,9 +4,9 @@
 
 url: http://ScottWeinstein.github.com/Recipes
 title: Recipes
-subtitle: Food which tastes good
+subtitle: Collection of tested recipes
 author: Scott Weinstein
-#simple_search: http://google.com/search
+simple_search: http://google.com/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -89,11 +89,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: scottsrecipes
+disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-37318086-1
 
 # Facebook Like
 facebook_like: true

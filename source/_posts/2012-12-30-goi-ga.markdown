@@ -8,7 +8,7 @@ categories: [chicken, vietnamese]
 
 # Vietnamese chicken salad
 
-![Goi Gai](http://www.nicegraphics.com/chow/hoanh_long/goi_ga.jpg)
+{% img right http://www.nicegraphics.com/chow/hoanh_long/goi_ga.jpg 300 200 'Goi Ga' %} 
 
 ## Notes
 I often double or triple the ingredients. The full recipe can take well over an hour to prepare, though if you skip the optional parts, as little as 30-45 min
@@ -19,8 +19,8 @@ I often double or triple the ingredients. The full recipe can take well over an 
 * ½ White onion
 * 2 Limes
 * ½ Cup Vinegar
-* 4 Small red chillis ![chilis](http://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Phrik_khi_nu.jpg/287px-Phrik_khi_nu.jpg)
-* Fish Sauce (Nam Pla) (Tiparos is a good brand) ![Tiparos](http://ecx.images-amazon.com/images/I/51THcYlP13L._SL500_AA300_.jpg)
+* 4 Small red chillis {%img right http://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Phrik_khi_nu.jpg/287px-Phrik_khi_nu.jpg 150 150 chillis %}
+* Fish Sauce (Nam Pla) (Tiparos is a good brand) {%img right http://ecx.images-amazon.com/images/I/51THcYlP13L._SL500_AA300_.jpg 150 150 Tiparos %}
 * Freshly ground black pepper
 * Fresh mint
 * Sugar
