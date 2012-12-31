@@ -4,7 +4,7 @@
   <title><![CDATA[Recipes]]></title>
   <link href="http://ScottWeinstein.github.com/Recipes/atom.xml" rel="self"/>
   <link href="http://ScottWeinstein.github.com/Recipes/"/>
-  <updated>2012-12-30T22:27:17-05:00</updated>
+  <updated>2012-12-30T22:28:59-05:00</updated>
   <id>http://ScottWeinstein.github.com/Recipes/</id>
   <author>
     <name><![CDATA[Scott Weinstein]]></name>
@@ -101,8 +101,12 @@
 <li>1 pound ground pork</li>
 <li>2 eggs</li>
 <li>flavored bread crumbs 1-1.5 cups</li>
-<li>salt pepper red pepper flakes</li>
-<li>.5 tsp Tumeric</li>
+<li>0.5 tsp dried chilli pepper power or red pepper flakes</li>
+<li>0.5 ground black pepper</li>
+<li><ol>
+<li>tsp Tumeric</li>
+</ol>
+</li>
 <li>splash lemon juice</li>
 <li>small can tomato sauce</li>
 </ul>
@@ -110,11 +114,11 @@
 
 <h2>steps</h2>
 
-<ul>
+<ol>
 <li>Mix all the above</li>
 <li>Roll into balls</li>
 <li>bake on lightly greased try at 350 for 45-60 min</li>
-</ul>
+</ol>
 
 ]]></content>
   </entry>
