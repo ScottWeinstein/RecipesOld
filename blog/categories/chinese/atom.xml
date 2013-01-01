@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Chinese | Recipes]]></title>
+  <link href="http://ScottWeinstein.github.com/Recipes/blog/categories/chinese/atom.xml" rel="self"/>
+  <link href="http://ScottWeinstein.github.com/Recipes/"/>
+  <updated>2012-12-31T21:08:15-05:00</updated>
+  <id>http://ScottWeinstein.github.com/Recipes/</id>
+  <author>
+    <name><![CDATA[Scott Weinstein]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Takeout-Style Sesame Noodles]]></title>
+    <link href="http://ScottWeinstein.github.com/Recipes/blog/2012/12/31/takeout-style-sesame-noodles/"/>
+    <updated>2012-12-31T20:59:00-05:00</updated>
+    <id>http://ScottWeinstein.github.com/Recipes/blog/2012/12/31/takeout-style-sesame-noodles</id>
+    <content type="html"><![CDATA[<h2>Ingredients</h2>
+
+<ul>
+<li>1 lbs Chinese egg noodles (1/8,-inch-thick), frozen or (preferably) fresh, available in Asian markets</li>
+<li>2 Tbsp sesame oil, plus a splash</li>
+<li>3½ Tbsp soy sauce</li>
+<li>2 Tbsp Chinese rice vinegar</li>
+<li>2 Tbsp Chinese sesame paste</li>
+<li>1 Tbsp smooth peanut butter</li>
+<li>1 Tbsp sugar</li>
+<li>1 Tbsp finely grated ginger</li>
+<li>2 tsp minced garlic</li>
+<li>2 tsp chili-garlic paste, or to taste</li>
+<li>Half a cucumber, peeled, seeded, and cut into 1/8,-by- 1/8,-by-2-inch sticks</li>
+<li>¼ cup chopped roasted peanuts</li>
+</ul>
+
+
+<h2>Steps</h2>
+
+<ol>
+<li>Bring a large pot of water to a boil</li>
+<li>Add noodles and cook until barely tender, about 5 minutes; they should retain a hint of chewiness</li>
+<li>Drain, rinse with cold water, drain again and toss with a splash of sesame oil</li>
+<li>In a medium bowl, whisk together the remaining 2 Tbsp sesame oil, the soy sauce, rice vinegar, sesame paste, peanut butter, sugar, ginger, garlic and chili-garlic paste</li>
+<li>Pour the sauce over the noodles and toss. Transfer to a serving bowl, and garnish with cucumber and peanuts. Serves 4</li>
+</ol>
+
+]]></content>
+  </entry>
+  
+</feed>
