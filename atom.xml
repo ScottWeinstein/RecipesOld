@@ -4,7 +4,7 @@
   <title><![CDATA[Recipes]]></title>
   <link href="http://ScottWeinstein.github.com/Recipes/atom.xml" rel="self"/>
   <link href="http://ScottWeinstein.github.com/Recipes/"/>
-  <updated>2012-12-31T21:08:15-05:00</updated>
+  <updated>2013-02-17T09:51:34-05:00</updated>
   <id>http://ScottWeinstein.github.com/Recipes/</id>
   <author>
     <name><![CDATA[Scott Weinstein]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Turkey Chili]]></title>
+    <link href="http://ScottWeinstein.github.com/Recipes/blog/2013/02/17/turkey-chili/"/>
+    <updated>2013-02-17T09:42:00-05:00</updated>
+    <id>http://ScottWeinstein.github.com/Recipes/blog/2013/02/17/turkey-chili</id>
+    <content type="html"><![CDATA[<h2>Ingredients</h2>
+
+<ul>
+<li>1 Tbsp oil</li>
+<li>2 C diced onions</li>
+<li>1.5 Tbsp chili powder</li>
+<li>1 tsp minced garlic</li>
+<li>1.5 tsp ground cumin</li>
+<li>1 tsp oregano</li>
+<li>3 cans of white beans</li>
+<li>4 C chicken broth</li>
+<li>1.5 Lbs ground turkey</li>
+<li>.5 C diced plum tomatoes</li>
+<li>0.3 C chopped cilanto</li>
+<li>2 Tbsp fresh lime juice</li>
+<li>0.5 tsp salt</li>
+<li>0.5 tsp ground black pepper</li>
+</ul>
+
+
+<h2>Steps</h2>
+
+<ul>
+<li>Cook turkey, set aside</li>
+<li>Saute onion till soft and golden</li>
+<li>Add chili, garlic, cumin for 2 min</li>
+<li>Add oregano and beans for 20 seconds</li>
+<li>Add broth for 20 min</li>
+<li>2 C of above mix and blend till smooth, return</li>
+<li>Add cooked turkey</li>
+<li>Add tomato, cilantro, lime, salt, pepper + 5 min</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hariyali Masoor and Greens Dal]]></title>
